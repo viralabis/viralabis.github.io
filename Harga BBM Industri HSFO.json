@@ -1,0 +1,44 @@
+[
+  {
+    "PERIODE": "15-31 Oktober 2024",
+    "HARGA WILAYAH 1": "Rp15.250",
+    "HARGA WILAYAH 2": "Rp19.350",
+    "HARGA WILAYAH 3": "Rp19.450",
+    "HARGA WILAYAH 4": "Rp15.600"
+  },
+  {
+    "PERIODE": "1-14 Oktober 2024",
+    "HARGA WILAYAH 1": "Rp15.100",
+    "HARGA WILAYAH 2": "Rp15.200",
+    "HARGA WILAYAH 3": "Rp15.300",
+    "HARGA WILAYAH 4": "Rp15.450"
+  },
+  {
+    "PERIODE": "15-30 September 2024",
+    "HARGA WILAYAH 1": "Rp15.350",
+    "HARGA WILAYAH 2": "Rp15.450",
+    "HARGA WILAYAH 3": "Rp15.550",
+    "HARGA WILAYAH 4": "Rp15.700"
+  },
+  {
+    "PERIODE": "1 - 14 September 2024",
+    "HARGA WILAYAH 1": "Rp15.700",
+    "HARGA WILAYAH 2": "Rp15.800",
+    "HARGA WILAYAH 3": "Rp15.900",
+    "HARGA WILAYAH 4": "Rp16.050"
+  },
+  {
+    "PERIODE": "15-31 Agustus 2024",
+    "HARGA WILAYAH 1": "Rp16.200",
+    "HARGA WILAYAH 2": "Rp16.300",
+    "HARGA WILAYAH 3": "Rp16.400",
+    "HARGA WILAYAH 4": "Rp16.550"
+  },
+  {
+    "PERIODE": "1-14 Agustus 2024",
+    "HARGA WILAYAH 1": "Rp16.650",
+    "HARGA WILAYAH 2": "Rp16.750",
+    "HARGA WILAYAH 3": "Rp16.850",
+    "HARGA WILAYAH 4": "Rp17.000"
+  }
+]
